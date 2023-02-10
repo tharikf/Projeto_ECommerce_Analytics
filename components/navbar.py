@@ -34,8 +34,6 @@ header = dbc.Navbar(
                         [
                             html.Div(
                                 [
-                                    dbc.Button('GitHub', color = 'success', className = 'me-1',
-                                                href = 'https://github.com/tharikf/Projetos', target = '_blank'),
                                 ],
                             )
                         ],
